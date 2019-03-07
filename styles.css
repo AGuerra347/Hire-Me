@@ -1,0 +1,17 @@
+body {background-color: black;} 
+h1 {font-family: 'PT Sans Narrow', sans-serif;
+text-align: center;color: white;}
+#chief{color: #001999;}
+p {font-family:  'PT Sans Narrow', sans-serif;
+text-align: center;color: orange;}
+#whomst{color: #500066;}
+#oof {color: #001999;}
+#bread {color:#500066;}
+h2 {text-align: center;}
+#lettuce {color:#001999;}
+#guac {color:#500066;}
+#bacon {color:#001999;}
+img {
+    height: 200px;
+    border: 10px solid green;
+}
